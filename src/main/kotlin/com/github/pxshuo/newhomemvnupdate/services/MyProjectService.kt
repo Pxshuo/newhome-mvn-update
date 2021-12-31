@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.pxshuo.newhomemvnupdate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pxshuo.newhomemvnupdate.MyBundle
 
 class MyProjectService(project: Project) {
 

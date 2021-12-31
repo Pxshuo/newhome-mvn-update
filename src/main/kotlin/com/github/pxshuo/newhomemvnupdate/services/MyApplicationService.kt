@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pxshuo.newhomemvnupdate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pxshuo.newhomemvnupdate.MyBundle
 
 class MyApplicationService {
 
